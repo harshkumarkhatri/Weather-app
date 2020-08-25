@@ -14,4 +14,4 @@ Some of the snaps from the app:-
 ___
 
 ## Made by:-
-<a href="http://harshbardhanmishra.me"><img src="https://avatars1.githubusercontent.com/u/42743629?s=460&u=1f68b5930fca70c68c90e2392798643919a7eeed&v=4" width="100px;" alt=""/><br /><sub><b>Harsh Kumar Khatri</b></sub></a><br /><a href="" title="Code">💻</a>
+<a href="https://harshkumarkhatri.github.io/Portfolio-Site/dist/index.html"><img src="https://avatars1.githubusercontent.com/u/42743629?s=460&u=1f68b5930fca70c68c90e2392798643919a7eeed&v=4" width="100px;" alt=""/><br /><sub><b>Harsh Kumar Khatri</b></sub></a><br /><a href="" title="Code">💻</a>
